@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>students_list.xcscheme</key>
+		<key>linked_list_c.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>BCFFC2C41A7510AF0003C55A</key>
+		<key>C53171511D0D57C40004343F</key>
 		<dict>
 			<key>primary</key>
 			<true/>

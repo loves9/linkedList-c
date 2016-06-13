@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:students_list.xcodeproj">
+      location = "self:linked_list_c.xcodeproj">
    </FileRef>
 </Workspace>
